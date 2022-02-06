@@ -1,0 +1,16 @@
+#+title: Liste des lectures
+#+author: H-Bauer
+#+date: <2022-02-06 dim.>
+
+* Programming
+** General
+- [[https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/][What Color is Your Function?]]
+** Functionnal Programming
+- [[https://www.johndcook.com/blog/tag/functional-programming/][John D. Cook's blog - Functional programming]]
+- [[http://www.lisperati.com/][Understanding Consciousness With Color-Coded Cartoons]]
+- [[https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf][Why Functional Programming Matters]]
+- [[http://www.cs.cmu.edu/~crary/819-f09/Backus78.pdf][Can Programming Be Liberated from the von Neumann Style? A Functional Style and Its Algebra of Programs]]
+*** Monads
+- [[https://byorgey.wordpress.com/2009/01/12/abstraction-intuition-and-the-monad-tutorial-fallacy/][Abstraction, intuition, and the “monad tutorial fallacy”]]
+- [[https://homepages.inf.ed.ac.uk/wadler/papers/marktoberdorf/baastad.pdf][Monads for functional programming]]
+- [[http://blog.sigfpe.com/2006/08/you-could-have-invented-monads-and.html][You Could Have Invented Monads! (And Maybe You Already Have.)]]

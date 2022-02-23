@@ -5,6 +5,7 @@
 * Programming
 ** General
 - [[https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/][What Color is Your Function?]]
+- [[https://mermet.users.greyc.fr/Enseignement/EnseignementInformatiqueLycee/Havre/][Organisation du DIU au Havre]]
 ** Functionnal Programming
 - [[https://www.johndcook.com/blog/tag/functional-programming/][John D. Cook's blog - Functional programming]]
 - [[http://www.lisperati.com/][Understanding Consciousness With Color-Coded Cartoons]]
